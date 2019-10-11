@@ -1,6 +1,6 @@
 # PrivateChat
 An anonymous chat client built using Node.js and Socket.io
-
+[如何通过 Socket.io 这个库，开发一个前后端通过 WebSocket 协议互动的最简单聊天应用。](https://hackernoon.com/an-overview-of-frontend-and-backend-interaction-48l031ba)
 ## Installation
 Required Node Modules - express, socket.io and nodemon(extra).
 
